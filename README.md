@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanzir-Ratul
 - 👀 I’m interested in Mobile Application Development 
-- 🌱 I’m currently learning java and flutter
+- 🌱 I’m currently learning java and flutter,kotlin
 - 💞️ I’m looking to collaborate on Android development
 - 📫 How to reach me (tanzir.ratul@gmail.com)
 
